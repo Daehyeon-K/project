@@ -21,17 +21,29 @@ public class Hello {
 
 
 		System.out.println("어려워요");
-		System.out.println("pull로 다운로드 push로 업로드 맞나요?");
-
-
-		PrintTest print = new PrintTest();
-		
+		System.out.println("난 뭘하고있는걸까...");
+		System.out.println("나는 타자기다...");
+		int haha;
 		Scanner sc = new Scanner(System.in);
-		print.printTest(sc.nextLine());
+
+		System.out.println("pull로 다운로드 push로 업로드 맞나요?");
+		// 넹 그런 것 같습니다
+
+		Scanner sc2 = new Scanner(System.in);
+
+		Scanner sc3 = new Scanner(System.in);
+		System.out.print("\n<<printTest>>\n >> ");
+		PrintTest.printTest(sc.nextLine()); //static method 사용 -> 객체 생성 없이 직접 호출
+
 		
 
 
 		System.out.println("#1시간만 버티면 #점심시간 #낮잠가능");
+
+
+		
+		sc.close();
+		
 
 	}
 }
