@@ -29,7 +29,6 @@ public class Hello {
 
 		System.out.println("pull로 다운로드 push로 업로드 맞나요?");
 		// 넹 그런 것 같습니다
-		가나다라마바사아자차카타파하
 
 		Scanner sc2 = new Scanner(System.in);
 
