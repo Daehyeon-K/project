@@ -3,7 +3,7 @@ package basic;
 public class Hello {
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-
+		int num1;
 
 		System.out.println("Hello World!1");
 		System.out.println("Hello World!2");
@@ -14,11 +14,10 @@ public class Hello {
 		System.out.println("Hello World!");
 
 
-<<<<<<< HEAD
+
 		System.out.println("conflicts 케이스 만들어봅시다.");
-=======
+
 		System.out.println("어려워요");
 
->>>>>>> branch 'master' of https://github.com/Daehyeon-K/project.git
 	}
 }
