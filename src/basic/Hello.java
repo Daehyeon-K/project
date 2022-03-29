@@ -13,8 +13,9 @@ public class Hello {
 
 		System.out.println("Hello World!");
 
-
+		System.out.println("conflicts 케이스 만들어봅시다.");
 		System.out.println("어려워요");
+
 
 		System.out.println("#1시간만 버티면 #점심시간 #낮잠가능");
 	}
