@@ -8,6 +8,10 @@ public class Hello {
 	public static void main(String[] args) {
 
 		// TODO Auto-generated method stub
+		
+		// 다같이 자동차 클래스 한번 만들어 볼까요? 별도로 패키지, 클래스 만들어서
+		
+		int num1;
 
 		System.out.println("Hello World!1");
 		System.out.println("Hello World!2");
@@ -45,7 +49,6 @@ public class Hello {
 		choiceLunch.whatLunchEat();
 		
 		sc.close();
-		
 
 	}
 }
