@@ -47,10 +47,6 @@ public class Hello {
 
 		
 		sc.close();
-<<<<<<< HEAD
-=======
-		
 
->>>>>>> branch 'master' of https://github.com/Daehyeon-K/project.git
 	}
 }
