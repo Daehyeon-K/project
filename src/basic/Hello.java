@@ -32,7 +32,6 @@ public class Hello {
 		
 
 		Scanner sc2 = new Scanner(System.in);
-		print.printTest(sc.nextLine());
 
 		Scanner sc3 = new Scanner(System.in);
 		System.out.print("\n<<printTest>>\n >> ");
