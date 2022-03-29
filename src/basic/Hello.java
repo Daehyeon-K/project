@@ -24,11 +24,10 @@ public class Hello {
 		System.out.println("어려워요");
 		System.out.println("pull로 다운로드 push로 업로드 맞나요?");
 		// 넹 그런 것 같습니다
-
-		PrintTest print = new PrintTest();
 		
 		Scanner sc = new Scanner(System.in);
-		print.printTest(sc.nextLine());
+		System.out.print("\n<<printTest>>\n >> ");
+		PrintTest.printTest(sc.nextLine());
 		
 
 
