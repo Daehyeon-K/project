@@ -27,7 +27,7 @@ public class Hello {
 		
 		Scanner sc = new Scanner(System.in);
 		System.out.print("\n<<printTest>>\n >> ");
-		PrintTest.printTest(sc.nextLine());
+		PrintTest.printTest(sc.nextLine()); //static method 사용 -> 객체 생성 없이 직접 호출
 		
 
 
