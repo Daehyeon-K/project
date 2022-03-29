@@ -14,7 +14,11 @@ public class Hello {
 		System.out.println("Hello World!");
 
 
+<<<<<<< HEAD
+		System.out.println("conflicts 케이스 만들어봅시다.");
+=======
 		System.out.println("어려워요");
 
+>>>>>>> branch 'master' of https://github.com/Daehyeon-K/project.git
 	}
 }
