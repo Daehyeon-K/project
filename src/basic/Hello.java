@@ -41,6 +41,8 @@ public class Hello {
 		System.out.println("#1시간만 버티면 #점심시간 #낮잠가능");
 
 
+		System.out.println("오늘의 점심은?");
+		choiceLunch.whatLunchEat();
 		
 		sc.close();
 		

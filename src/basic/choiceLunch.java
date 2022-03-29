@@ -1,7 +1,7 @@
 package basic;
 
 public class choiceLunch {
-	public void whatLunchEat() {
+	public static void whatLunchEat() {
 	int lunch = (int)(Math.random()*6)+1;
 	
 	switch(lunch) {
